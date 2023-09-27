@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  blockfenderscharts:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-09-27T21:14:00.84777964+05:30"
+    description: A Helm chart for blockfenderscharts demo microservice
+    digest: b36de228bea6fe9856de1b97ac2feee618b945e5c4873cc492bce4ba8b5c37f5
+    name: blockfenderscharts
+    type: application
+    urls:
+    - blockfenderscharts-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-27T21:14:00.845914295+05:30"
