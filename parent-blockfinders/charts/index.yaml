@@ -6,7 +6,7 @@ entries:
     created: "2023-09-28T01:20:57.959421841+05:30"
     dependencies:
     - name: blockfenderscharts
-      repository: https://dutta249.github.io/helm-charts/charts
+      repository: https://dutta249.github.io/helm-charts/child-blockfinders/charts
       version: 0.2.0
     description: A Helm chart for parent-blockfinder demo microservice
     digest: 6f5e705ff326018570154cda4a314b218a88c60d1aacd79ca1486f449695f811
