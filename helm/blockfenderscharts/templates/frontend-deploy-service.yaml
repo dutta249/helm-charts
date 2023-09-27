@@ -34,7 +34,7 @@ spec:
       containers:
       - name: cratefrontend
         #image: dutta249/crate:frontend14.0
-        image: {{ .Values.appimage}}
+        image: {{ .Values.duttaimage}}
         volumeMounts:
         - name: env-configmap
           #mountPath: /app/.env
