@@ -1,0 +1,6 @@
+dependencies:
+- name: blockfenderscharts
+  repository: https://dutta249.github.io/helm-charts/charts
+  version: 0.2.0
+digest: sha256:394e5c0f9e12ccd8c04834dc5844161cbdbfc20b1d6e76d3605f98bc165fd072
+generated: "2023-09-28T00:48:27.839590651+05:30"
